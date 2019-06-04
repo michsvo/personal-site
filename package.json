@@ -1,0 +1,35 @@
+{
+  "name": "Personal_Site",
+  "version": "1.0.0",
+  "description": "Personal Site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michsvo/personal-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michsvo/personal-site/issues"
+  },
+  "homepage": "https://github.com/michsvo/personal-site#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.5.1",
+    "browser-sync": "^2.26.5",
+    "cssnano": "^4.1.10",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-svgmin": "^2.2.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
